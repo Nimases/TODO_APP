@@ -38,5 +38,5 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/${{ nimases/todo_app }}:latest
-            ghcr.io/${{ nimases/todo_app }}:1.0.0
+            ghcr.io/nimases/todo_app:latest
+            ghcr.io/nimases/todo_app:1.0.0
